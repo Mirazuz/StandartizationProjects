@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: RestParamTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in RestParamTest
+shouldCalculateMonthsOfRest  Time elapsed: 0.018 s  <<< ERROR!
+org.junit.platform.commons.PreconditionViolationException: Configuration error: You must configure at least one set of arguments for this @ParameterizedTest
+
